@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://sydne-togelterbaru.github.io/hrt-3/sitemap.xml
